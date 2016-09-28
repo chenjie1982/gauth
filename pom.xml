@@ -32,9 +32,9 @@
 
     <properties>
         <!-- application properties -->
-        <gae.application.name>replaceme</gae.application.name>
-        <gae.consumer.key>replaceme</gae.consumer.key>
-        <gae.consumer.secret>replaceme</gae.consumer.secret>
+        <gae.application.name>gauth</gae.application.name>
+        <gae.consumer.key>anonymous</gae.consumer.key>
+        <gae.consumer.secret>anonymous</gae.consumer.secret>
     </properties>
 
     <dependencies>
